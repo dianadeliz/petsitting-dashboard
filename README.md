@@ -4,6 +4,12 @@ An end-to-end data analytics project that transforms recurring pet-care service 
 
 The project demonstrates a reproducible ETL workflow using Python and pandas, SQL-based analysis with SQLite, data quality validation, privacy-conscious data publishing, and interactive business reporting.
 
+## Live Dashboard
+
+**[Open the interactive Streamlit dashboard](https://petsitting-analytics.streamlit.app)**
+
+The deployed dashboard uses the anonymized public dataset. Client information and the private operational database are not included in the deployment.
+
 ## Project Overview
 
 The source data consists of recurring CSV reports containing pet-care service transactions, including service dates, clients, service types, and payment amounts.
