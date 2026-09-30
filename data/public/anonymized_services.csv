@@ -1,0 +1,1099 @@
+Transaction_ID,Day,Date,Client,Service,Pay,Service_Category
+TRX000001,Mon,2025-04-07,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000002,Mon,2025-04-07,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000003,Tue,2025-04-08,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000004,Wed,2025-04-09,Client 038,Key Pickup,10.0,Administrative
+TRX000005,Wed,2025-04-09,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000006,Thu,2025-04-10,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000007,Fri,2025-04-11,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000008,Sat,2025-04-12,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000009,Sat,2025-04-12,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000010,Sun,2025-04-13,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000011,Sun,2025-04-13,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000012,Mon,2025-04-14,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000013,Thu,2025-04-17,Client 023,30 minute private walk - 1 dog,20.0,Dog Walk
+TRX000014,Thu,2025-04-17,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000015,Fri,2025-04-18,Client 047,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000016,Fri,2025-04-18,Client 055,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000017,Fri,2025-04-18,Client 046,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000018,Sat,2025-04-19,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000019,Sat,2025-04-19,Client 047,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000020,Sat,2025-04-19,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000021,Sat,2025-04-19,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000022,Sun,2025-04-20,Client 055,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000023,Sun,2025-04-20,Client 047,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000024,Sun,2025-04-20,Client 046,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000025,Sun,2025-04-20,Client 009,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000026,Fri,2026-04-24,Client 054,30 minute cat visit,23.0,Cat Visit
+TRX000027,Sat,2026-04-25,Client 054,30 minute cat visit,23.0,Cat Visit
+TRX000028,Sun,2026-04-26,Client 054,30 minute cat visit,23.0,Cat Visit
+TRX000029,Fri,2026-05-01,Client 003,30 minute cat visit,23.0,Cat Visit
+TRX000030,Fri,2026-05-01,Client 003,30 minute cat visit,23.0,Cat Visit
+TRX000031,Sat,2026-05-02,Client 003,30 minute cat visit,23.0,Cat Visit
+TRX000032,Sat,2026-05-02,Client 003,30 minute cat visit,23.0,Cat Visit
+TRX000033,Mon,2025-04-21,Client 023,30 minute private walk - 1 dog - less than days/wk,22.0,Dog Walk
+TRX000034,Mon,2025-04-21,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000035,Tue,2025-04-22,Client 023,30 minute private walk - 1 dog - less than days/wk,22.0,Dog Walk
+TRX000036,Tue,2025-04-22,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000037,Wed,2025-04-23,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000038,Thu,2025-04-24,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000039,Thu,2025-04-24,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000040,Fri,2025-04-25,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000041,Sat,2025-04-26,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000042,Sun,2025-04-27,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000043,Mon,2025-04-28,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000044,Tue,2025-04-29,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000045,Wed,2025-04-30,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000046,Thu,2025-05-01,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000047,Fri,2025-05-02,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000048,Mon,2026-08-10,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000049,Tue,2026-08-11,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000050,Wed,2026-08-12,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000051,Thu,2026-08-13,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000052,Fri,2026-08-14,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000053,Sat,2026-08-15,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000054,Sat,2026-08-15,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000055,Sat,2026-08-15,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000056,Sat,2026-08-15,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000057,Sat,2026-08-15,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000058,Sun,2026-08-16,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000059,Sun,2026-08-16,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000060,Sun,2026-08-16,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000061,Sun,2026-08-16,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000062,Sun,2026-08-16,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000063,Mon,2026-08-17,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000064,Mon,2026-08-17,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000065,Mon,2026-08-17,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000066,Mon,2026-08-17,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000067,Tue,2026-08-18,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000068,Tue,2026-08-18,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000069,Tue,2026-08-18,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000070,Tue,2026-08-18,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000071,Tue,2026-08-18,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000072,Tue,2026-08-18,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000073,Wed,2026-08-19,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000074,Wed,2026-08-19,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000075,Wed,2026-08-19,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000076,Wed,2026-08-19,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000077,Wed,2026-08-19,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000078,Wed,2026-08-19,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000079,Wed,2026-08-19,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000080,Thu,2026-08-20,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000081,Thu,2026-08-20,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000082,Thu,2026-08-20,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000083,Thu,2026-08-20,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000084,Fri,2026-08-21,Client 023,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000085,Fri,2026-08-21,Client 023,30 minute private walk,20.0,Dog Walk
+TRX000086,Fri,2026-08-21,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000087,Fri,2026-08-21,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000088,Sat,2026-08-22,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000089,Sat,2026-08-22,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000090,Sun,2026-08-23,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000091,Sun,2026-08-23,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000092,Tue,2025-08-12,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000093,Wed,2025-08-13,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000094,Thu,2025-08-14,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000095,Thu,2025-08-14,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000096,Thu,2025-08-14,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000097,Fri,2025-08-15,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000098,Fri,2025-08-15,Client 019,Pet or House Sitting - Night (4pm-9am),80.0,Pet Sitting
+TRX000099,Fri,2025-08-15,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000100,Fri,2025-08-15,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000101,Fri,2025-08-15,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000102,Sat,2025-08-16,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000103,Sat,2025-08-16,Client 019,Pet or House Sitting - Night (4pm-9am),80.0,Pet Sitting
+TRX000104,Sat,2025-08-16,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000105,Sat,2025-08-16,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000106,Sun,2025-08-17,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000107,Sun,2025-08-17,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000108,Mon,2025-08-18,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000109,Mon,2025-08-18,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000110,Tue,2025-08-19,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000111,Tue,2025-08-19,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000112,Tue,2025-08-19,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000113,Wed,2025-08-20,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000114,Wed,2025-08-20,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000115,Wed,2025-08-20,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000116,Fri,2025-08-22,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000117,Fri,2025-08-22,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000118,Sat,2025-08-23,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000119,Sun,2025-08-24,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000120,Sun,2025-08-24,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000121,Mon,2025-08-25,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000122,Mon,2025-08-25,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX000123,Mon,2025-08-25,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000124,Mon,2025-08-25,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000125,Tue,2025-08-26,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX000126,Tue,2025-08-26,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000127,Tue,2025-08-26,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000128,Tue,2025-08-26,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000129,Wed,2025-08-27,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX000130,Wed,2025-08-27,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000131,Wed,2025-08-27,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000132,Thu,2025-08-28,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000133,Thu,2025-08-28,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000134,Fri,2025-08-29,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000135,Fri,2025-08-29,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000136,Fri,2025-08-29,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000137,Sat,2025-08-30,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000138,Sat,2025-08-30,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000139,Sat,2025-08-30,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000140,Sat,2025-08-30,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000141,Sat,2025-08-30,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000142,Sat,2025-08-30,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000143,Sun,2025-08-31,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000144,Sun,2025-08-31,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000145,Sun,2025-08-31,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000146,Sun,2025-08-31,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000147,Mon,2025-09-01,Client 009,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000148,Mon,2025-09-01,Client 043,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000149,Mon,2025-09-01,Client 013,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000150,Tue,2025-09-02,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000151,Wed,2025-09-03,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX000152,Fri,2025-09-05,Client 032,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000153,Sat,2025-09-06,Client 012,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000154,Sat,2025-09-06,Client 032,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000155,Sun,2025-09-07,Client 032,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000156,Thu,2026-08-27,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000157,Thu,2026-08-27,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000158,Thu,2026-08-27,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000159,Fri,2026-08-28,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000160,Sat,2026-08-29,Client 015,45 minute cat visit,28.0,Cat Visit
+TRX000161,Sat,2026-08-29,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000162,Sun,2026-08-30,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000163,Sun,2026-08-30,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000164,Mon,2026-08-31,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000165,Mon,2026-08-31,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000166,Tue,2026-09-01,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000167,Wed,2026-09-02,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000168,Thu,2026-09-03,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000169,Fri,2026-09-04,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000170,Sat,2026-09-05,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000171,Sat,2026-09-05,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX000172,Sat,2026-09-05,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000173,Sat,2026-09-05,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000174,Sun,2026-09-06,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000175,Sun,2026-09-06,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX000176,Sun,2026-09-06,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000177,Sun,2026-09-06,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000178,Mon,2025-12-01,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000179,Wed,2025-12-03,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000180,Fri,2025-12-05,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000181,Sat,2025-12-06,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000182,Sun,2025-12-07,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000183,Sun,2025-12-07,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000184,Mon,2025-12-08,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000185,Tue,2025-12-09,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000186,Tue,2025-12-09,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000187,Wed,2025-12-10,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000188,Wed,2025-12-10,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000189,Thu,2025-12-11,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000190,Fri,2025-12-12,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000191,Thu,2025-12-18,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000192,Fri,2025-12-19,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000193,Sat,2025-12-20,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000194,Sat,2025-12-20,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000195,Sat,2025-12-20,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000196,Sat,2025-12-20,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000197,Sun,2025-12-21,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000198,Sun,2025-12-21,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000199,Sun,2025-12-21,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000200,Sun,2025-12-21,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000201,Mon,2025-12-22,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000202,Mon,2025-12-22,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000203,Mon,2025-12-22,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000204,Tue,2025-12-23,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000205,Tue,2025-12-23,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000206,Tue,2025-12-23,Client 036,House sitting for cats (5pm - 9am),90.0,Pet Sitting
+TRX000207,Wed,2025-12-24,Client 008,Surcharge for holiday visit,10.0,Surcharge
+TRX000208,Wed,2025-12-24,Client 053,Surcharge for holiday visit,10.0,Surcharge
+TRX000209,Wed,2025-12-24,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000210,Wed,2025-12-24,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000211,Wed,2025-12-24,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000212,Wed,2025-12-24,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000213,Wed,2025-12-24,Client 036,Surcharge for holiday visit,10.0,Surcharge
+TRX000214,Wed,2025-12-24,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000215,Thu,2025-12-25,Client 057,Surcharge for holiday visit,10.0,Surcharge
+TRX000216,Thu,2025-12-25,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000217,Thu,2025-12-25,Client 053,Surcharge for holiday visit,10.0,Surcharge
+TRX000218,Thu,2025-12-25,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000219,Thu,2025-12-25,Client 009,Surcharge for holiday visit,10.0,Surcharge
+TRX000220,Thu,2025-12-25,Client 005,Surcharge for holiday visit,10.0,Surcharge
+TRX000221,Thu,2025-12-25,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000222,Thu,2025-12-25,Client 008,Surcharge for holiday visit,10.0,Surcharge
+TRX000223,Thu,2025-12-25,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000224,Thu,2025-12-25,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000225,Thu,2025-12-25,Client 036,Surcharge for holiday visit,10.0,Surcharge
+TRX000226,Thu,2025-12-25,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000227,Thu,2025-12-25,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000228,Fri,2025-12-26,Client 034,Surcharge for medicine administration,10.0,Surcharge
+TRX000229,Fri,2025-12-26,Client 057,Surcharge for holiday visit,10.0,Surcharge
+TRX000230,Fri,2025-12-26,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000231,Fri,2025-12-26,Client 034,Surcharge for holiday visit,10.0,Surcharge
+TRX000232,Fri,2025-12-26,Client 053,Surcharge for holiday visit,10.0,Surcharge
+TRX000233,Fri,2025-12-26,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000234,Fri,2025-12-26,Client 009,Surcharge for holiday visit,10.0,Surcharge
+TRX000235,Fri,2025-12-26,Client 005,Surcharge for holiday visit,10.0,Surcharge
+TRX000236,Fri,2025-12-26,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000237,Fri,2025-12-26,Client 008,Surcharge for holiday visit,10.0,Surcharge
+TRX000238,Fri,2025-12-26,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000239,Fri,2025-12-26,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000240,Fri,2025-12-26,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000241,Sat,2025-12-27,Client 034,Surcharge for medicine administration,10.0,Surcharge
+TRX000242,Sat,2025-12-27,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000243,Sat,2025-12-27,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000244,Sat,2025-12-27,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000245,Sat,2025-12-27,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000246,Sat,2025-12-27,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000247,Sun,2025-12-28,Client 034,Surcharge for medicine administration,10.0,Surcharge
+TRX000248,Sun,2025-12-28,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000249,Sun,2025-12-28,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000250,Sun,2025-12-28,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000251,Sun,2025-12-28,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000252,Thu,2024-12-19,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000253,Fri,2024-12-20,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000254,Fri,2024-12-20,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000255,Sat,2024-12-21,Client 038,Key Pickup,0.0,Administrative
+TRX000256,Sat,2024-12-21,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000257,Sat,2024-12-21,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000258,Sat,2024-12-21,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000259,Sun,2024-12-22,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000260,Sun,2024-12-22,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000261,Sun,2024-12-22,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000262,Sun,2024-12-22,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000263,Mon,2024-12-23,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000264,Mon,2024-12-23,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000265,Mon,2024-12-23,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000266,Mon,2024-12-23,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000267,Tue,2024-12-24,Client 038,Cat Visit - with Medicine/Procedure,37.0,Cat Visit
+TRX000268,Tue,2024-12-24,Client 038,Cat Visit - with Medicine/Procedure,37.0,Cat Visit
+TRX000269,Tue,2024-12-24,Client 008,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000270,Tue,2024-12-24,Client 039,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000271,Tue,2024-12-24,Client 011,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000272,Tue,2024-12-24,Client 053,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000273,Tue,2024-12-24,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000274,Tue,2024-12-24,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000275,Tue,2024-12-24,Client 010,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000276,Wed,2024-12-25,Client 038,Cat Visit - with Medicine/Procedure,37.0,Cat Visit
+TRX000277,Wed,2024-12-25,Client 008,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000278,Wed,2024-12-25,Client 039,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000279,Wed,2024-12-25,Client 011,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000280,Wed,2024-12-25,Client 053,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000281,Wed,2024-12-25,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000282,Wed,2024-12-25,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000283,Wed,2024-12-25,Client 009,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000284,Thu,2024-12-26,Client 008,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000285,Thu,2024-12-26,Client 040,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000286,Thu,2024-12-26,Client 039,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000287,Thu,2024-12-26,Client 011,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000288,Thu,2024-12-26,Client 053,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000289,Thu,2024-12-26,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000290,Thu,2024-12-26,Client 045,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000291,Thu,2024-12-26,Client 010,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000292,Thu,2024-12-26,Client 009,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000293,Fri,2024-12-27,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000294,Fri,2024-12-27,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000295,Fri,2024-12-27,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000296,Fri,2024-12-27,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000297,Fri,2024-12-27,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000298,Fri,2024-12-27,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000299,Fri,2024-12-27,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000300,Fri,2024-12-27,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000301,Sat,2024-12-28,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000302,Sat,2024-12-28,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000303,Sat,2024-12-28,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000304,Sat,2024-12-28,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000305,Sat,2024-12-28,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000306,Sun,2024-12-29,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000307,Sun,2024-12-29,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000308,Mon,2024-12-02,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000309,Mon,2024-12-02,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000310,Mon,2024-12-02,Client 002,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000311,Mon,2024-12-02,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000312,Mon,2024-12-02,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000313,Tue,2024-12-03,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000314,Tue,2024-12-03,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000315,Tue,2024-12-03,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000316,Tue,2024-12-03,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000317,Tue,2024-12-03,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000318,Wed,2024-12-04,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000319,Wed,2024-12-04,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000320,Wed,2024-12-04,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000321,Wed,2024-12-04,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000322,Thu,2024-12-05,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000323,Thu,2024-12-05,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000324,Thu,2024-12-05,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000325,Thu,2024-12-05,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000326,Fri,2024-12-06,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000327,Fri,2024-12-06,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000328,Fri,2024-12-06,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000329,Fri,2024-12-06,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000330,Sat,2024-12-07,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000331,Sat,2024-12-07,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000332,Sat,2024-12-07,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000333,Sat,2024-12-07,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000334,Sun,2024-12-08,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000335,Sun,2024-12-08,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000336,Mon,2024-12-09,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,30.0,Dog Walk
+TRX000337,Mon,2024-12-09,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,27.0,Dog Walk
+TRX000338,Tue,2024-12-10,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,30.0,Dog Walk
+TRX000339,Tue,2024-12-10,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,27.0,Dog Walk
+TRX000340,Wed,2024-12-11,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,30.0,Dog Walk
+TRX000341,Wed,2024-12-11,Client 042,30 minute private walk - 2 dogs - less than 5 days/wk,27.0,Dog Walk
+TRX000342,Sat,2024-12-14,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000343,Mon,2025-12-29,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000344,Mon,2025-12-29,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000345,Mon,2025-12-29,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000346,Tue,2025-12-30,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000347,Tue,2025-12-30,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000348,Tue,2025-12-30,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000349,Wed,2025-12-31,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000350,Wed,2025-12-31,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000351,Wed,2025-12-31,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000352,Thu,2026-01-01,Client 024,Surcharge for holiday visit,10.0,Surcharge
+TRX000353,Thu,2026-01-01,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000354,Thu,2026-01-01,Client 057,Surcharge for holiday visit,10.0,Surcharge
+TRX000355,Thu,2026-01-01,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000356,Thu,2026-01-01,Client 053,Surcharge for holiday visit,10.0,Surcharge
+TRX000357,Thu,2026-01-01,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000358,Thu,2026-01-01,Client 043,Surcharge for holiday visit,10.0,Surcharge
+TRX000359,Thu,2026-01-01,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000360,Fri,2026-01-02,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000361,Fri,2026-01-02,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000362,Fri,2026-01-02,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000363,Fri,2026-01-02,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000364,Sat,2026-01-03,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000365,Sat,2026-01-03,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000366,Sat,2026-01-03,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000367,Sat,2026-01-03,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000368,Sun,2026-01-04,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000369,Sun,2026-01-04,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000370,Sun,2026-01-04,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000371,Mon,2026-01-05,Client 057,30 minute cat visit,23.0,Cat Visit
+TRX000372,Sun,2026-01-11,Client 051,30 minute cat visit,23.0,Cat Visit
+TRX000373,Mon,2024-12-30,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000374,Mon,2024-12-30,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000375,Tue,2024-12-31,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000376,Tue,2024-12-31,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000377,Wed,2025-01-01,Client 040,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000378,Wed,2025-01-01,Client 053,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000379,Thu,2025-01-02,Client 041,House Sitting - Night,80.0,Pet Sitting
+TRX000380,Thu,2025-01-02,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000381,Fri,2025-01-03,Client 041,House Sitting - Night,80.0,Pet Sitting
+TRX000382,Fri,2025-01-03,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000383,Sat,2025-01-04,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000384,Sat,2025-01-04,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000385,Sun,2025-01-05,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000386,Mon,2025-01-06,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000387,Sat,2025-01-11,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000388,Mon,2025-02-10,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000389,Mon,2025-02-10,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000390,Tue,2025-02-11,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000391,Tue,2025-02-11,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000392,Tue,2025-02-11,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000393,Wed,2025-02-12,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000394,Wed,2025-02-12,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000395,Wed,2025-02-12,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000396,Thu,2025-02-13,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000397,Fri,2025-02-14,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000398,Sat,2025-02-15,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000399,Sat,2025-02-15,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000400,Sun,2025-02-16,Client 010,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000401,Sun,2025-02-16,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000402,Thu,2025-02-20,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000403,Fri,2025-02-21,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000404,Sat,2025-02-22,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000405,Sun,2025-02-23,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000406,Fri,2026-03-06,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000407,Sat,2026-03-07,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000408,Sun,2026-03-08,Client 031,30 minute cat visit,23.0,Cat Visit
+TRX000409,Sun,2026-03-08,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000410,Mon,2025-02-24,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000411,Sat,2025-03-01,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000412,Sun,2025-03-02,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000413,Thu,2025-03-06,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000414,Thu,2025-03-06,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000415,Fri,2025-03-07,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000416,Fri,2025-03-07,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000417,Sat,2025-03-08,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000418,Sat,2025-03-08,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000419,Sat,2025-03-08,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000420,Sun,2025-03-09,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000421,Sun,2025-03-09,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000422,Mon,2026-02-09,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000423,Mon,2026-02-09,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000424,Tue,2026-02-10,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000425,Tue,2026-02-10,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000426,Wed,2026-02-11,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000427,Wed,2026-02-11,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000428,Thu,2026-02-12,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000429,Thu,2026-02-12,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000430,Fri,2026-02-13,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000431,Sat,2026-02-14,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000432,Fri,2026-02-20,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000433,Sat,2026-02-21,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000434,Sun,2026-02-22,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000435,Tue,2026-01-13,Client 051,30 minute cat visit,23.0,Cat Visit
+TRX000436,Thu,2026-01-15,Client 051,30 minute cat visit,23.0,Cat Visit
+TRX000437,Mon,2026-01-19,Client 014,Surcharge for medicine administration,10.0,Surcharge
+TRX000438,Mon,2026-01-19,Client 014,30 minute cat visit,23.0,Cat Visit
+TRX000439,Tue,2026-01-20,Client 014,Surcharge for medicine administration,0.0,Surcharge
+TRX000440,Tue,2026-01-20,Client 014,30 minute cat visit,23.0,Cat Visit
+TRX000441,Wed,2026-01-21,Client 014,30 minute cat visit,23.0,Cat Visit
+TRX000442,Thu,2026-01-22,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000443,Thu,2026-01-22,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000444,Thu,2026-01-22,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000445,Thu,2026-01-22,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000446,Fri,2026-01-23,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000447,Fri,2026-01-23,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000448,Fri,2026-01-23,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000449,Fri,2026-01-23,Client 018,Puppy Visit - 20 minutes,20.0,Puppy Visit
+TRX000450,Sat,2026-01-24,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000451,Sun,2026-01-25,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000452,Mon,2025-01-13,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000453,Wed,2025-01-15,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000454,Fri,2025-01-17,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000455,Fri,2025-01-17,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000456,Fri,2025-01-17,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000457,Sat,2025-01-18,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000458,Sat,2025-01-18,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000459,Sun,2025-01-19,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000460,Mon,2025-01-20,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000461,Tue,2025-01-21,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000462,Wed,2025-01-22,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000463,Thu,2025-01-23,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000464,Fri,2025-01-24,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000465,Sat,2025-01-25,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000466,Sun,2025-01-26,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000467,Thu,2026-01-29,Client 023,30 minute private walk,20.0,Dog Walk
+TRX000468,Thu,2026-02-05,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000469,Fri,2026-02-06,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000470,Fri,2026-02-06,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000471,Sat,2026-02-07,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000472,Sat,2026-02-07,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000473,Sun,2026-02-08,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000474,Sun,2026-02-08,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000475,Thu,2025-01-30,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000476,Sat,2025-02-01,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000477,Mon,2025-02-03,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000478,Wed,2025-02-05,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000479,Fri,2025-02-07,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000480,Fri,2025-02-07,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000481,Sat,2025-02-08,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000482,Sat,2025-02-08,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000483,Sat,2025-02-08,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000484,Sun,2025-02-09,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000485,Sun,2025-02-09,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000486,Sun,2025-02-09,Client 022,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000487,Mon,2026-07-13,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000488,Tue,2026-07-14,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000489,Wed,2026-07-15,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000490,Thu,2026-07-16,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000491,Fri,2026-07-17,Client 030,30 minute cat visit,23.0,Cat Visit
+TRX000492,Fri,2026-07-17,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000493,Sat,2026-07-18,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000494,Sat,2026-07-18,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000495,Sun,2026-07-19,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000496,Mon,2026-07-20,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000497,Mon,2026-07-20,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000498,Tue,2026-07-21,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000499,Tue,2026-07-21,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000500,Wed,2026-07-22,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000501,Wed,2026-07-22,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000502,Thu,2026-07-23,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000503,Thu,2026-07-23,Client 023,30 minute private walk,20.0,Dog Walk
+TRX000504,Thu,2026-07-23,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000505,Fri,2026-07-24,Client 046,30 minute cat visit,23.0,Cat Visit
+TRX000506,Fri,2026-07-24,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000507,Sat,2026-07-25,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000508,Sat,2026-07-25,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000509,Sun,2026-07-26,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000510,Sun,2026-07-26,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000511,Sun,2026-07-26,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000512,Sun,2026-07-26,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000513,Mon,2025-07-14,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000514,Mon,2025-07-14,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000515,Tue,2025-07-15,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000516,Tue,2025-07-15,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000517,Wed,2025-07-16,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000518,Thu,2025-07-17,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000519,Thu,2025-07-17,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000520,Thu,2025-07-17,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000521,Fri,2025-07-18,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000522,Fri,2025-07-18,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000523,Fri,2025-07-18,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000524,Fri,2025-07-18,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000525,Sat,2025-07-19,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000526,Sat,2025-07-19,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000527,Sat,2025-07-19,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000528,Sat,2025-07-19,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000529,Sat,2025-07-19,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000530,Sat,2025-07-19,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000531,Sat,2025-07-19,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000532,Sun,2025-07-20,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000533,Sun,2025-07-20,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000534,Sun,2025-07-20,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000535,Sun,2025-07-20,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000536,Sun,2025-07-20,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000537,Sun,2025-07-20,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000538,Sun,2025-07-20,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000539,Mon,2025-07-21,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000540,Tue,2025-07-22,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000541,Tue,2025-07-22,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000542,Wed,2025-07-23,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000543,Thu,2025-07-24,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000544,Thu,2025-07-24,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000545,Fri,2025-07-25,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000546,Fri,2025-07-25,Client 025,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000547,Fri,2025-07-25,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000548,Fri,2025-07-25,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000549,Sat,2025-07-26,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000550,Sat,2025-07-26,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000551,Sat,2025-07-26,Client 025,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000552,Sat,2025-07-26,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000553,Sat,2025-07-26,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000554,Sun,2025-07-27,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000555,Sun,2025-07-27,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000556,Sun,2025-07-27,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000557,Sun,2025-07-27,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000558,Sun,2025-07-27,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000559,Mon,2026-07-27,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000560,Mon,2026-07-27,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000561,Mon,2026-07-27,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000562,Mon,2026-07-27,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000563,Tue,2026-07-28,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000564,Tue,2026-07-28,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000565,Tue,2026-07-28,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000566,Tue,2026-07-28,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000567,Wed,2026-07-29,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000568,Wed,2026-07-29,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000569,Wed,2026-07-29,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000570,Wed,2026-07-29,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000571,Thu,2026-07-30,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000572,Thu,2026-07-30,Client 015,45 minute cat visit,28.0,Cat Visit
+TRX000573,Thu,2026-07-30,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000574,Thu,2026-07-30,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000575,Thu,2026-07-30,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000576,Fri,2026-07-31,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000577,Fri,2026-07-31,Client 015,45 minute cat visit,28.0,Cat Visit
+TRX000578,Fri,2026-07-31,Client 015,30 minute cat visit,23.0,Cat Visit
+TRX000579,Fri,2026-07-31,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000580,Fri,2026-07-31,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000581,Fri,2026-07-31,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000582,Sat,2026-08-01,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000583,Sat,2026-08-01,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000584,Sat,2026-08-01,Client 015,30 minute cat visit,23.0,Cat Visit
+TRX000585,Sat,2026-08-01,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000586,Sat,2026-08-01,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000587,Sat,2026-08-01,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000588,Sun,2026-08-02,Client 051,30 minute cat visit,23.0,Cat Visit
+TRX000589,Sun,2026-08-02,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000590,Sun,2026-08-02,Client 006,30 minute cat visit,23.0,Cat Visit
+TRX000591,Sun,2026-08-02,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000592,Sun,2026-08-02,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000593,Sun,2026-08-02,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000594,Mon,2026-08-03,Client 005,Surcharge for holiday visit,10.0,Surcharge
+TRX000595,Mon,2026-08-03,Client 005,Surcharge for holiday visit,10.0,Surcharge
+TRX000596,Mon,2026-08-03,Client 043,Surcharge for holiday visit,10.0,Surcharge
+TRX000597,Mon,2026-08-03,Client 053,Surcharge for holiday visit,10.0,Surcharge
+TRX000598,Mon,2026-08-03,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000599,Mon,2026-08-03,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000600,Mon,2026-08-03,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000601,Mon,2026-08-03,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000602,Tue,2026-08-04,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000603,Tue,2026-08-04,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000604,Tue,2026-08-04,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000605,Wed,2026-08-05,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000606,Wed,2026-08-05,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000607,Wed,2026-08-05,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000608,Thu,2026-08-06,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000609,Thu,2026-08-06,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000610,Thu,2026-08-06,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000611,Fri,2026-08-07,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000612,Fri,2026-08-07,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000613,Fri,2026-08-07,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000614,Sat,2026-08-08,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000615,Sat,2026-08-08,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000616,Sat,2026-08-08,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000617,Sun,2026-08-09,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000618,Mon,2025-07-28,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000619,Mon,2025-07-28,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000620,Mon,2025-07-28,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000621,Tue,2025-07-29,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000622,Tue,2025-07-29,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000623,Tue,2025-07-29,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000624,Wed,2025-07-30,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000625,Wed,2025-07-30,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000626,Wed,2025-07-30,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000627,Thu,2025-07-31,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000628,Thu,2025-07-31,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000629,Fri,2025-08-01,Client 035,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000630,Fri,2025-08-01,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000631,Fri,2025-08-01,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000632,Fri,2025-08-01,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000633,Fri,2025-08-01,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000634,Fri,2025-08-01,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000635,Sat,2025-08-02,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000636,Sat,2025-08-02,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000637,Sat,2025-08-02,Client 035,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000638,Sat,2025-08-02,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000639,Sat,2025-08-02,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000640,Sat,2025-08-02,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000641,Sat,2025-08-02,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000642,Sun,2025-08-03,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000643,Sun,2025-08-03,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000644,Sun,2025-08-03,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000645,Sun,2025-08-03,Client 035,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000646,Sun,2025-08-03,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000647,Sun,2025-08-03,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000648,Sun,2025-08-03,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000649,Sun,2025-08-03,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000650,Sun,2025-08-03,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000651,Mon,2025-08-04,Client 035,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000652,Mon,2025-08-04,Client 036,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000653,Mon,2025-08-04,Client 039,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000654,Mon,2025-08-04,Client 053,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000655,Tue,2025-08-05,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000656,Tue,2025-08-05,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000657,Wed,2025-08-06,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000658,Wed,2025-08-06,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000659,Wed,2025-08-06,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000660,Thu,2025-08-07,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000661,Thu,2025-08-07,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000662,Thu,2025-08-07,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000663,Fri,2025-08-08,Client 025,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000664,Fri,2025-08-08,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000665,Sat,2025-08-09,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000666,Sat,2025-08-09,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000667,Sun,2025-08-10,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000668,Sun,2025-08-10,Client 053,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000669,Fri,2025-06-06,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000670,Sat,2025-06-07,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000671,Thu,2025-06-12,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000672,Fri,2025-06-13,Client 008,Cat Visit - 30 minutes,0.0,Cat Visit
+TRX000673,Fri,2025-06-13,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000674,Fri,2025-06-13,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000675,Sat,2025-06-14,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000676,Sat,2025-06-14,Client 008,Cat Visit - 30 minutes,0.0,Cat Visit
+TRX000677,Sat,2025-06-14,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000678,Sat,2025-06-14,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000679,Sun,2025-06-15,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000680,Sun,2025-06-15,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000681,Sun,2025-06-15,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000682,Mon,2026-06-01,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000683,Wed,2026-06-03,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000684,Wed,2026-06-03,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000685,Thu,2026-06-04,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000686,Thu,2026-06-04,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000687,Thu,2026-06-04,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000688,Fri,2026-06-05,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000689,Fri,2026-06-05,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000690,Fri,2026-06-05,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000691,Fri,2026-06-05,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000692,Sat,2026-06-06,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000693,Sat,2026-06-06,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000694,Sat,2026-06-06,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000695,Sat,2026-06-06,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000696,Sat,2026-06-06,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000697,Sun,2026-06-07,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000698,Sun,2026-06-07,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000699,Sun,2026-06-07,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000700,Sat,2026-06-13,Client 047,30 minute cat visit,23.0,Cat Visit
+TRX000701,Mon,2026-06-15,Client 054,30 minute cat visit,23.0,Cat Visit
+TRX000702,Tue,2026-06-16,Client 054,30 minute cat visit,23.0,Cat Visit
+TRX000703,Fri,2026-06-19,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000704,Sat,2026-06-20,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000705,Sat,2026-06-20,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000706,Sun,2026-06-21,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX000707,Sun,2026-06-21,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000708,Sun,2026-06-21,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX000709,Mon,2026-06-22,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000710,Mon,2026-06-22,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000711,Mon,2026-06-22,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000712,Tue,2026-06-23,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000713,Wed,2026-06-24,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000714,Thu,2026-06-25,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000715,Fri,2026-06-26,Client 029,Key Pickup,10.0,Administrative
+TRX000716,Fri,2026-06-26,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000717,Sat,2026-06-27,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000718,Mon,2025-06-16,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000719,Tue,2025-06-17,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000720,Wed,2025-06-18,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000721,Thu,2025-06-19,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000722,Thu,2025-06-19,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000723,Thu,2025-06-19,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000724,Fri,2025-06-20,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000725,Fri,2025-06-20,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000726,Fri,2025-06-20,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000727,Fri,2025-06-20,Client 008,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000728,Fri,2025-06-20,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000729,Sat,2025-06-21,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000730,Sat,2025-06-21,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000731,Sat,2025-06-21,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000732,Sun,2025-06-22,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000733,Sun,2025-06-22,Client 024,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000734,Mon,2025-06-23,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000735,Tue,2025-06-24,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000736,Thu,2025-06-26,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000737,Fri,2025-06-27,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000738,Sat,2025-06-28,Client 050,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000739,Sun,2025-06-29,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000740,Sun,2025-06-29,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000741,Sun,2025-06-29,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000742,Sun,2025-06-29,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000743,Sun,2025-06-29,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000744,Mon,2026-06-29,Client 043,30 minute cat visit,23.0,Cat Visit
+TRX000745,Mon,2026-06-29,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000746,Tue,2026-06-30,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000747,Wed,2026-07-01,Client 029,Surcharge for holiday visit,10.0,Surcharge
+TRX000748,Wed,2026-07-01,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000749,Thu,2026-07-02,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000750,Fri,2026-07-03,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000751,Sat,2026-07-04,Client 029,30 minute cat visit,23.0,Cat Visit
+TRX000752,Mon,2026-07-06,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000753,Mon,2026-07-06,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000754,Tue,2026-07-07,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000755,Tue,2026-07-07,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000756,Wed,2026-07-08,Client 024,30 minute cat visit,23.0,Cat Visit
+TRX000757,Wed,2026-07-08,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000758,Thu,2026-07-09,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000759,Fri,2026-07-10,Client 043,45 minute cat visit,28.0,Cat Visit
+TRX000760,Sat,2026-07-11,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000761,Sat,2026-07-11,Client 030,30 minute cat visit,23.0,Cat Visit
+TRX000762,Sat,2026-07-11,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000763,Sun,2026-07-12,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000764,Mon,2025-06-30,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000765,Mon,2025-06-30,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000766,Mon,2025-06-30,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000767,Tue,2025-07-01,Client 040,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000768,Tue,2025-07-01,Client 043,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX000769,Wed,2025-07-02,Client 047,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000770,Wed,2025-07-02,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000771,Thu,2025-07-03,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000772,Thu,2025-07-03,Client 047,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000773,Thu,2025-07-03,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000774,Fri,2025-07-04,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000775,Fri,2025-07-04,Client 047,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000776,Fri,2025-07-04,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000777,Fri,2025-07-04,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000778,Sat,2025-07-05,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000779,Sat,2025-07-05,Client 047,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000780,Sat,2025-07-05,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000781,Sat,2025-07-05,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000782,Sat,2025-07-05,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000783,Sun,2025-07-06,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000784,Sun,2025-07-06,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000785,Sun,2025-07-06,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000786,Mon,2025-07-07,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000787,Mon,2025-07-07,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000788,Mon,2025-07-07,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000789,Tue,2025-07-08,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000790,Tue,2025-07-08,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000791,Wed,2025-07-09,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000792,Thu,2025-07-10,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000793,Thu,2025-07-10,Client 023,30 minute private walk - 1 dog,20.0,Dog Walk
+TRX000794,Thu,2025-07-10,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000795,Thu,2025-07-10,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000796,Fri,2025-07-11,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000797,Fri,2025-07-11,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000798,Fri,2025-07-11,Client 023,30 minute private walk - 1 dog,20.0,Dog Walk
+TRX000799,Fri,2025-07-11,Client 043,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000800,Sat,2025-07-12,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000801,Sat,2025-07-12,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000802,Sun,2025-07-13,Client 013,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000803,Sun,2025-07-13,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000804,Sun,2025-07-13,Client 058,60 minute private walk - 1 dog,35.0,Dog Walk
+TRX000805,Sun,2025-07-13,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000806,Mon,2026-03-09,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000807,Tue,2026-03-10,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000808,Wed,2026-03-11,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000809,Wed,2026-03-11,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000810,Thu,2026-03-12,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000811,Thu,2026-03-12,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000812,Fri,2026-03-13,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000813,Fri,2026-03-13,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000814,Fri,2026-03-13,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000815,Sat,2026-03-14,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000816,Sat,2026-03-14,Client 034,30 minute cat visit,23.0,Cat Visit
+TRX000817,Sat,2026-03-14,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000818,Sat,2026-03-14,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000819,Sun,2026-03-15,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000820,Sun,2026-03-15,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000821,Sun,2026-03-15,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000822,Mon,2026-03-16,Client 053,30 minute cat visit,23.0,Cat Visit
+TRX000823,Mon,2026-03-16,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000824,Mon,2026-03-16,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000825,Mon,2026-03-16,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000826,Tue,2026-03-17,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000827,Tue,2026-03-17,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000828,Tue,2026-03-17,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000829,Wed,2026-03-18,Client 008,30 minute cat visit,23.0,Cat Visit
+TRX000830,Wed,2026-03-18,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000831,Wed,2026-03-18,Client 056,30 minute cat visit,23.0,Cat Visit
+TRX000832,Thu,2026-03-19,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000833,Thu,2026-03-19,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000834,Fri,2026-03-20,Client 001,30 minute cat visit,23.0,Cat Visit
+TRX000835,Fri,2026-03-20,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000836,Fri,2026-03-20,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000837,Sat,2026-03-21,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000838,Sat,2026-03-21,Client 020,House sitting for dogs (5pm - 9am),90.0,Pet Sitting
+TRX000839,Sun,2026-03-22,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000840,Mon,2025-03-10,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000841,Mon,2025-03-10,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000842,Tue,2025-03-11,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000843,Tue,2025-03-11,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000844,Tue,2025-03-11,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000845,Wed,2025-03-12,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000846,Wed,2025-03-12,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000847,Wed,2025-03-12,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000848,Thu,2025-03-13,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000849,Thu,2025-03-13,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000850,Thu,2025-03-13,Client 056,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000851,Fri,2025-03-14,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000852,Fri,2025-03-14,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000853,Fri,2025-03-14,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000854,Sat,2025-03-15,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000855,Sat,2025-03-15,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000856,Sat,2025-03-15,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000857,Sun,2025-03-16,Client 004,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000858,Thu,2026-04-02,Client 036,Surcharge for medicine administration,10.0,Surcharge
+TRX000859,Thu,2026-04-02,Client 036,30 minute cat visit,23.0,Cat Visit
+TRX000860,Sat,2026-04-04,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000861,Sun,2026-04-05,Client 009,Surcharge for holiday visit,10.0,Surcharge
+TRX000862,Sun,2026-04-05,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000863,Mon,2025-03-24,Client 023,30 minute private walk - 1 dog - less than days/wk,20.0,Dog Walk
+TRX000864,Tue,2025-03-25,Client 023,30 minute private walk - 1 dog - less than days/wk,20.0,Dog Walk
+TRX000865,Thu,2025-03-27,Client 023,30 minute private walk - 1 dog - less than days/wk,20.0,Dog Walk
+TRX000866,Fri,2025-03-28,Client 023,30 minute private walk - 1 dog - less than days/wk,20.0,Dog Walk
+TRX000867,Fri,2025-03-28,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000868,Sat,2025-03-29,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000869,Fri,2025-04-04,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000870,Sat,2025-04-05,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000871,Sat,2025-04-05,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000872,Sun,2025-04-06,Client 046,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000873,Sun,2025-04-06,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000874,Mon,2026-05-25,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000875,Tue,2026-05-26,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000876,Thu,2026-05-28,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000877,Fri,2026-05-29,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000878,Fri,2026-05-29,Client 007,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000879,Fri,2026-05-29,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000880,Fri,2026-05-29,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000881,Fri,2026-05-29,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000882,Sat,2026-05-30,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000883,Sat,2026-05-30,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000884,Sat,2026-05-30,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000885,Sat,2026-05-30,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000886,Sat,2026-05-30,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000887,Sat,2026-05-30,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000888,Sun,2026-05-31,Client 007,Surcharge for weekend walk,10.0,Surcharge
+TRX000889,Sun,2026-05-31,Client 007,30 minute private walk,20.0,Dog Walk
+TRX000890,Sun,2026-05-31,Client 021,45 minute cat visit,28.0,Cat Visit
+TRX000891,Fri,2025-05-23,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000892,Fri,2025-05-23,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000893,Fri,2025-05-23,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000894,Sat,2025-05-24,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000895,Sat,2025-05-24,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000896,Sat,2025-05-24,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000897,Sun,2025-05-25,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000898,Sun,2025-05-25,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000899,Mon,2025-05-26,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000900,Wed,2025-05-28,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000901,Thu,2025-05-29,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000902,Thu,2025-05-29,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000903,Fri,2025-05-30,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000904,Fri,2025-05-30,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000905,Sat,2025-05-31,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000906,Sun,2025-06-01,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000907,Sat,2026-05-09,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000908,Sun,2026-05-10,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000909,Fri,2026-05-15,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000910,Fri,2026-05-15,Client 023,45 minute private walk,25.0,Dog Walk
+TRX000911,Fri,2026-05-15,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000912,Sat,2026-05-16,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000913,Sat,2026-05-16,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000914,Sat,2026-05-16,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000915,Sun,2026-05-17,Client 052,30 minute cat visit,23.0,Cat Visit
+TRX000916,Sun,2026-05-17,Client 013,30 minute cat visit,23.0,Cat Visit
+TRX000917,Fri,2025-05-09,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000918,Fri,2025-05-09,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000919,Sat,2025-05-10,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000920,Sat,2025-05-10,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000921,Sat,2025-05-10,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000922,Sat,2025-05-10,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000923,Sun,2025-05-11,Client 051,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000924,Sun,2025-05-11,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000925,Sun,2025-05-11,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000926,Mon,2025-05-12,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000927,Mon,2025-05-12,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000928,Tue,2025-05-13,Client 045,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000929,Wed,2025-05-14,Client 038,Key Drop Off,10.0,Administrative
+TRX000930,Wed,2025-05-14,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000931,Fri,2025-05-16,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000932,Sat,2025-05-17,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000933,Sat,2025-05-17,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000934,Sat,2025-05-17,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000935,Sun,2025-05-18,Client 040,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000936,Sun,2025-05-18,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000937,Sat,2025-11-08,Client 028,30 minute cat visit,23.0,Cat Visit
+TRX000938,Tue,2025-11-11,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000939,Wed,2025-11-12,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000940,Thu,2025-11-13,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000941,Fri,2025-11-14,Client 048,Surcharge for walk outside normal hours (10:00 - 3:00),10.0,Surcharge
+TRX000942,Fri,2025-11-14,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000943,Sat,2025-11-15,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000944,Sat,2025-11-15,Client 048,Surcharge for weekend walk,10.0,Surcharge
+TRX000945,Sat,2025-11-15,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000946,Sat,2025-11-15,Client 017,30 minute cat visit,23.0,Cat Visit
+TRX000947,Sat,2025-11-15,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000948,Sun,2025-11-16,Client 017,30 minute cat visit,23.0,Cat Visit
+TRX000949,Thu,2024-11-21,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000950,Fri,2024-11-22,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000951,Sat,2024-11-23,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000952,Sun,2024-11-24,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000953,Wed,2024-11-27,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000954,Thu,2024-11-28,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000955,Thu,2024-11-28,Client 044,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000956,Fri,2024-11-29,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000957,Fri,2024-11-29,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000958,Fri,2024-11-29,Client 044,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000959,Fri,2024-11-29,Client 044,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000960,Sat,2024-11-30,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000961,Sat,2024-11-30,Client 044,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000962,Sat,2024-11-30,Client 044,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000963,Sun,2024-12-01,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000964,Sun,2024-12-01,Client 002,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX000965,Sun,2024-12-01,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000966,Sun,2024-12-01,Client 055,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000967,Mon,2025-11-17,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000968,Wed,2025-11-19,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000969,Fri,2025-11-21,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000970,Sun,2025-11-23,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000971,Tue,2025-11-25,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000972,Tue,2025-11-25,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000973,Wed,2025-11-26,Client 048,45 minute group walk,20.0,Dog Walk
+TRX000974,Thu,2025-11-27,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000975,Sat,2025-11-29,Client 026,30 minute cat visit,23.0,Cat Visit
+TRX000976,Mon,2024-11-04,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000977,Tue,2024-11-05,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000978,Tue,2024-11-05,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000979,Wed,2024-11-06,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000980,Wed,2024-11-06,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000981,Thu,2024-11-07,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000982,Fri,2024-11-08,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000983,Fri,2024-11-08,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000984,Sat,2024-11-09,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000985,Sat,2024-11-09,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000986,Sun,2024-11-10,Client 033,Cat Visit - 30 minutes,0.0,Cat Visit
+TRX000987,Sun,2024-11-17,Client 033,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX000988,Sat,2025-10-11,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000989,Sat,2025-10-11,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX000990,Sun,2025-10-12,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000991,Sun,2025-10-12,Client 009,Surcharge for holiday visit,10.0,Surcharge
+TRX000992,Sun,2025-10-12,Client 012,Surcharge for holiday visit,10.0,Surcharge
+TRX000993,Sun,2025-10-12,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX000994,Sun,2025-10-12,Client 036,Surcharge for holiday visit,10.0,Surcharge
+TRX000995,Sun,2025-10-12,Client 036,House sitting for cats (5pm - 9am),80.0,Pet Sitting
+TRX000996,Mon,2025-10-13,Client 003,30 minute cat visit,23.0,Cat Visit
+TRX000997,Mon,2025-10-13,Client 003,Surcharge for holiday visit,10.0,Surcharge
+TRX000998,Mon,2025-10-13,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX000999,Mon,2025-10-13,Client 009,Surcharge for holiday visit,10.0,Surcharge
+TRX001000,Mon,2025-10-13,Client 012,Surcharge for holiday visit,10.0,Surcharge
+TRX001001,Mon,2025-10-13,Client 012,30 minute cat visit,23.0,Cat Visit
+TRX001002,Tue,2025-10-14,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX001003,Tue,2025-10-14,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001004,Wed,2025-10-15,Client 009,30 minute cat visit,23.0,Cat Visit
+TRX001005,Wed,2025-10-15,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001006,Sat,2025-10-18,Client 051,30 minute cat visit,23.0,Cat Visit
+TRX001007,Sat,2025-10-25,Client 005,30 minute cat visit,23.0,Cat Visit
+TRX001008,Mon,2025-10-27,Client 036,Credit for adjustment,0.0,Adjustment
+TRX001009,Tue,2025-10-28,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001010,Wed,2025-10-29,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001011,Fri,2025-10-31,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001012,Mon,2024-10-21,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001013,Mon,2024-10-21,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001014,Tue,2024-10-22,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001015,Tue,2024-10-22,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001016,Wed,2024-10-23,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001017,Wed,2024-10-23,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001018,Thu,2024-10-24,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001019,Thu,2024-10-24,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001020,Fri,2024-10-25,Client 049,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001021,Fri,2024-10-25,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001022,Fri,2024-10-25,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001023,Sat,2024-10-26,Client 049,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001024,Sat,2024-10-26,Client 049,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001025,Sat,2024-10-26,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001026,Sun,2024-10-27,Client 049,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001027,Sun,2024-10-27,Client 049,Cat Visit - 30 minutes,0.0,Cat Visit
+TRX001028,Sun,2024-10-27,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001029,Mon,2024-10-28,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001030,Mon,2024-10-28,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001031,Tue,2024-10-29,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001032,Wed,2024-10-30,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001033,Wed,2024-10-30,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001034,Thu,2024-10-31,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001035,Thu,2024-10-31,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001036,Thu,2024-10-31,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001037,Thu,2024-10-31,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001038,Fri,2024-11-01,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001039,Fri,2024-11-01,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001040,Fri,2024-11-01,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001041,Fri,2024-11-01,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001042,Sat,2024-11-02,Client 039,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001043,Thu,2024-10-10,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001044,Fri,2024-10-11,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001045,Fri,2024-10-11,Client 027,Cat Visit - 3 or more cats,26.0,Cat Visit
+TRX001046,Sat,2024-10-12,Client 027,Cat Visit - 3 or more cats,26.0,Cat Visit
+TRX001047,Sat,2024-10-12,Client 027,Cat Visit with 2 Surcharges,32.0,Cat Visit
+TRX001048,Sun,2024-10-13,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001049,Sun,2024-10-13,Client 038,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX001050,Sun,2024-10-13,Client 027,Cat Visit with 2 Surcharges,32.0,Cat Visit
+TRX001051,Sun,2024-10-13,Client 027,Cat Visit - 3 or more cats,26.0,Cat Visit
+TRX001052,Sun,2024-10-13,Client 054,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001053,Mon,2024-10-14,Client 009,Cat Visit - 30 minutes,30.0,Cat Visit
+TRX001054,Mon,2024-10-14,Client 038,Cat Visit - with Medicine/Procedure,0.0,Cat Visit
+TRX001055,Mon,2024-10-14,Client 027,Cat Visit with 2 Surcharges,42.0,Cat Visit
+TRX001056,Mon,2024-10-14,Client 027,Cat Visit - 3 or more cats,36.0,Cat Visit
+TRX001057,Tue,2024-10-15,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001058,Tue,2024-10-15,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001059,Tue,2024-10-15,Client 027,Cat Visit - 3 or more cats,26.0,Cat Visit
+TRX001060,Wed,2024-10-16,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001061,Wed,2024-10-16,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001062,Thu,2024-10-17,Client 009,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001063,Thu,2024-10-17,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001064,Thu,2024-10-17,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001065,Fri,2024-10-18,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001066,Fri,2024-10-18,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001067,Fri,2024-10-18,Client 016,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001068,Sat,2024-10-19,Client 050,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001069,Sat,2024-10-19,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001070,Sun,2024-10-20,Client 037,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001071,Mon,2025-09-08,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX001072,Tue,2025-09-09,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001073,Fri,2025-09-12,Client 003,Ciient Meet & Greet,25.0,Administrative
+TRX001074,Fri,2025-09-12,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001075,Sun,2025-09-14,Client 036,Cat Visit - 30 minutes,20.0,Cat Visit
+TRX001076,Mon,2025-09-15,Client 036,Pet or House Sitting - Night (4pm-9am),80.0,Pet Sitting
+TRX001077,Tue,2025-09-16,Client 036,Pet or House Sitting - Night (4pm-9am),80.0,Pet Sitting
+TRX001078,Tue,2025-09-16,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX001079,Wed,2025-09-17,Client 036,Pet or House Sitting - Night (4pm-9am),80.0,Pet Sitting
+TRX001080,Wed,2025-09-17,Client 048,45 minute group walk - 1 dog - less than 5 days/wk,24.0,Dog Walk
+TRX001081,Mon,2025-09-22,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX001082,Mon,2025-09-22,Client 008,30 minute cat visit,20.0,Cat Visit
+TRX001083,Tue,2025-09-23,Client 008,30 minute cat visit,20.0,Cat Visit
+TRX001084,Wed,2025-09-24,Client 008,30 minute cat visit,20.0,Cat Visit
+TRX001085,Thu,2025-09-25,Client 008,30 minute cat visit,20.0,Cat Visit
+TRX001086,Fri,2025-09-26,Client 008,30 minute cat visit,20.0,Cat Visit
+TRX001087,Fri,2025-09-26,Client 013,30 minute cat visit,20.0,Cat Visit
+TRX001088,Sat,2025-09-27,Client 036,Cat Visit - with Medicine/Procedure,27.0,Cat Visit
+TRX001089,Sat,2025-09-27,Client 013,30 minute cat visit,20.0,Cat Visit
+TRX001090,Sun,2025-09-28,Client 036,30 minute cat visit,20.0,Cat Visit
+TRX001091,Sun,2025-09-28,Client 013,30 minute cat visit,20.0,Cat Visit
+TRX001092,Mon,2025-09-29,Client 013,30 minute cat visit,20.0,Cat Visit
+TRX001093,Wed,2025-10-01,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001094,Wed,2025-10-01,Client 024,30 minute cat visit,20.0,Cat Visit
+TRX001095,Thu,2025-10-02,Client 048,45 minute group walk,20.0,Dog Walk
+TRX001096,Thu,2025-10-02,Client 024,30 minute cat visit,20.0,Cat Visit
+TRX001097,Fri,2025-10-03,Client 048,30 minute private walk - 1 dog - less than days/wk,32.0,Dog Walk
+TRX001098,Fri,2025-10-03,Client 024,30 minute cat visit,20.0,Cat Visit
