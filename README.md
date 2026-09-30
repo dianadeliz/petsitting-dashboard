@@ -385,7 +385,7 @@ The `tools/` directory contains supporting utilities used during source-data inv
 Clone the repository and move into the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dianadeliz/petsitting-dashboard.git
 cd petsitting-dashboard
 ```
 
