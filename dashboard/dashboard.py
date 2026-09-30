@@ -12,7 +12,16 @@ import streamlit as st
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 DATABASE_PATH = (
-    PROJECT_ROOT / "database" / "petsitting.db"
+    PROJECT_ROOT
+    / "database"
+    / "petsitting.db"
+)
+
+PUBLIC_DATA_PATH = (
+    PROJECT_ROOT
+    / "data"
+    / "public"
+    / "anonymized_services.csv"
 )
 
 
@@ -27,52 +36,70 @@ st.set_page_config(
 
 
 # --------------------------------------------------
-# 3. Connect to database
+# 3. Load dashboard data
 # --------------------------------------------------
 
-connection = sqlite3.connect(DATABASE_PATH)
+# Local/private mode:
+# Use the SQLite database when it exists.
+#
+# Public mode:
+# If the private database is unavailable, use the
+# anonymized CSV included with the GitHub project.
+
+if DATABASE_PATH.exists():
+
+    connection = sqlite3.connect(DATABASE_PATH)
+
+    df = pd.read_sql_query(
+        """
+        SELECT
+            Transaction_ID,
+            Day,
+            Date,
+            Client,
+            Service,
+            Pay,
+            Service_Category
+        FROM services
+        """,
+        connection
+    )
+
+    connection.close()
+
+    data_mode = "Private"
+
+else:
+
+    if not PUBLIC_DATA_PATH.exists():
+        st.error(
+            "No dashboard data source was found."
+        )
+        st.stop()
+
+    df = pd.read_csv(PUBLIC_DATA_PATH)
+
+    data_mode = "Public"
 
 
-# --------------------------------------------------
-# 4. Load dashboard data
-# --------------------------------------------------
-
-df = pd.read_sql_query(
-    """
-    SELECT
-        Transaction_ID,
-        Day,
-        Date,
-        Client,
-        Service,
-        Pay,
-        Source_File,
-        Service_Category
-    FROM services
-    """,
-    connection
-)
-
-connection.close()
-
-
-# Convert Date to datetime for filtering
+# Convert Date to datetime
 df["Date"] = pd.to_datetime(df["Date"])
 
 
 # --------------------------------------------------
-# 5. Dashboard title
+# 4. Dashboard title
 # --------------------------------------------------
 
 st.title("Pet Sitting Business Dashboard")
 
 st.write(
-    "Overview of transactions, revenue, services, and client activity."
+    "Overview of transactions, revenue, services, "
+    "and client activity."
 )
 
 
 # --------------------------------------------------
-# 6. Dashboard filters
+# 5. Dashboard filters
 # --------------------------------------------------
 
 st.sidebar.header("Filters")
@@ -114,16 +141,26 @@ selected_dates = st.sidebar.date_input(
 )
 
 
-# Apply filters
+# --------------------------------------------------
+# 6. Apply filters
+# --------------------------------------------------
+
 if len(selected_dates) == 2:
 
-    start_date = pd.Timestamp(selected_dates[0])
-    end_date = pd.Timestamp(selected_dates[1])
+    start_date = pd.Timestamp(
+        selected_dates[0]
+    )
+
+    end_date = pd.Timestamp(
+        selected_dates[1]
+    )
 
     filtered_df = df[
         (df["Date"].dt.year.isin(selected_years))
         &
-        (df["Service_Category"].isin(selected_categories))
+        (df["Service_Category"].isin(
+            selected_categories
+        ))
         &
         (df["Date"] >= start_date)
         &
@@ -135,7 +172,9 @@ else:
     filtered_df = df[
         (df["Date"].dt.year.isin(selected_years))
         &
-        (df["Service_Category"].isin(selected_categories))
+        (df["Service_Category"].isin(
+            selected_categories
+        ))
     ].copy()
 
 
@@ -147,7 +186,8 @@ if filtered_df.empty:
 
     st.warning(
         "No transactions match the selected filters. "
-        "Try adjusting the year, service category, or date range."
+        "Try adjusting the year, service category, "
+        "or date range."
     )
 
     st.stop()
@@ -161,9 +201,13 @@ total_revenue = filtered_df["Pay"].sum()
 
 total_transactions = len(filtered_df)
 
-unique_clients = filtered_df["Client"].nunique()
+unique_clients = (
+    filtered_df["Client"].nunique()
+)
 
-average_transaction = filtered_df["Pay"].mean()
+average_transaction = (
+    filtered_df["Pay"].mean()
+)
 
 
 # --------------------------------------------------
@@ -204,7 +248,8 @@ col4.metric(
 st.subheader("Revenue Over Time")
 
 st.caption(
-    "Monthly revenue based on the currently selected filters."
+    "Monthly revenue based on the currently "
+    "selected filters."
 )
 
 
@@ -235,14 +280,15 @@ st.line_chart(
 )
 
 
-# Warn when the latest month may be incomplete
+# Latest month warning
 if (
     filtered_df["Date"].max().to_period("M")
     == pd.Timestamp.today().to_period("M")
 ):
 
     st.caption(
-        "Note: The latest month may contain partial data."
+        "Note: The latest month may contain "
+        "partial data."
     )
 
 
@@ -250,10 +296,13 @@ if (
 # 11. Revenue by service category
 # --------------------------------------------------
 
-st.subheader("Revenue by Service Category")
+st.subheader(
+    "Revenue by Service Category"
+)
 
 st.caption(
-    "Total revenue generated by each service category."
+    "Total revenue generated by each "
+    "service category."
 )
 
 
@@ -281,7 +330,7 @@ st.bar_chart(
 
 
 # --------------------------------------------------
-# 12. Transactions by category and revenue by day
+# 12. Transactions and revenue analysis
 # --------------------------------------------------
 
 col1, col2 = st.columns(2)
@@ -293,10 +342,13 @@ col1, col2 = st.columns(2)
 
 with col1:
 
-    st.subheader("Transactions by Service Category")
+    st.subheader(
+        "Transactions by Service Category"
+    )
 
     st.caption(
-        "Number of recorded transactions by service category."
+        "Number of recorded transactions "
+        "by service category."
     )
 
 
@@ -329,10 +381,13 @@ with col1:
 
 with col2:
 
-    st.subheader("Revenue by Day of Week")
+    st.subheader(
+        "Revenue by Day of Week"
+    )
 
     st.caption(
-        "Total revenue generated on each day of the week."
+        "Total revenue generated on each "
+        "day of the week."
     )
 
 
@@ -369,8 +424,9 @@ with col2:
     )
 
 
-    daily_revenue = daily_revenue.sort_values(
-        "Day"
+    daily_revenue = (
+        daily_revenue
+        .sort_values("Day")
     )
 
 
@@ -385,15 +441,17 @@ with col2:
 # 13. Client with most visits per month
 # --------------------------------------------------
 
-st.subheader("Client with Most Visits per Month")
+st.subheader(
+    "Client with Most Visits per Month"
+)
 
 st.caption(
-    "Client(s) with the highest number of recorded pet-care visits "
-    "in each month. Ties are included."
+    "Client(s) with the highest number of "
+    "recorded pet-care visits in each month. "
+    "Ties are included."
 )
 
 
-# Categories that represent actual pet-care visits
 visit_categories = [
     "Cat Visit",
     "Dog Walk",
@@ -402,7 +460,6 @@ visit_categories = [
 ]
 
 
-# Keep only actual pet-care visits
 visits_df = filtered_df[
     filtered_df["Service_Category"].isin(
         visit_categories
@@ -410,10 +467,8 @@ visits_df = filtered_df[
 ].copy()
 
 
-# Only calculate results if visit records exist
 if not visits_df.empty:
 
-    # Create month column
     visits_df["Month"] = (
         visits_df["Date"]
         .dt.to_period("M")
@@ -421,7 +476,6 @@ if not visits_df.empty:
     )
 
 
-    # Count visits by client and month
     monthly_client_visits = (
         visits_df
         .groupby(
@@ -437,7 +491,6 @@ if not visits_df.empty:
     )
 
 
-    # Find the highest number of visits in each month
     monthly_max_visits = (
         monthly_client_visits
         .groupby("Month")["Visits"]
@@ -445,14 +498,15 @@ if not visits_df.empty:
     )
 
 
-    # Keep client(s) with the highest visit count
-    top_client_by_month = monthly_client_visits[
-        monthly_client_visits["Visits"]
-        == monthly_max_visits
-    ].copy()
+    top_client_by_month = (
+        monthly_client_visits[
+            monthly_client_visits["Visits"]
+            == monthly_max_visits
+        ]
+        .copy()
+    )
 
 
-    # Sort chronologically
     top_client_by_month = (
         top_client_by_month
         .sort_values(
@@ -461,30 +515,29 @@ if not visits_df.empty:
     )
 
 
-    # Display table
     st.dataframe(
-        top_client_by_month,
-        use_container_width=True,
-        hide_index=True,
-        column_config={
-            "Month": st.column_config.TextColumn(
-                "Month"
-            ),
-            "Client": st.column_config.TextColumn(
-                "Client"
-            ),
-            "Visits": st.column_config.NumberColumn(
-                "Visits",
-                format="%d"
-            )
-        }
-    )
+    top_client_by_month,
+    width="stretch",
+    hide_index=True,
+    column_config={
+        "Month": st.column_config.TextColumn(
+            "Month"
+        ),
+        "Client": st.column_config.TextColumn(
+            "Client"
+        ),
+        "Visits": st.column_config.NumberColumn(
+            "Visits",
+            format="%d"
+        )
+    }
+)
 
 else:
 
     st.info(
-        "No pet-care visits are available for "
-        "the selected filters."
+        "No pet-care visits are available "
+        "for the selected filters."
     )
 
 
@@ -496,7 +549,24 @@ st.divider()
 
 
 st.caption(
-    f"Showing {len(filtered_df):,} of {len(df):,} transactions "
-    f"from {filtered_df['Date'].min().strftime('%b %d, %Y')} "
-    f"to {filtered_df['Date'].max().strftime('%b %d, %Y')}."
+    f"Showing {len(filtered_df):,} "
+    f"of {len(df):,} transactions "
+    f"from "
+    f"{filtered_df['Date'].min().strftime('%b %d, %Y')} "
+    f"to "
+    f"{filtered_df['Date'].max().strftime('%b %d, %Y')}."
 )
+
+
+# Show which data source is being used
+if data_mode == "Private":
+
+    st.caption(
+        "Data source: local private database."
+    )
+
+else:
+
+    st.caption(
+        "Data source: anonymized public dataset."
+    )

@@ -23,7 +23,7 @@ data/processed/
 
 
 # --------------------------------------------------
-# Local databases
+# Local databases containing private data
 # --------------------------------------------------
 
 database/*.db
